@@ -2,6 +2,6 @@
 home: false
 ---
 
-<p class="italic text-blue">
-    Ini paragraf yang di-style pakai Tailwind langsung di markdown.
-</p>
+<div class="italic text-blue-500">
+  Ini paragraf yang di-style pakai Tailwind langsung di markdown.
+</div>
